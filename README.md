@@ -14,6 +14,7 @@ Tech Stack:<br/>
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=Firebase)&nbsp;
 <br/>
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=plastic&logo=postman)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-333333?style=plastic&logo=docker)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=plastic&logo=Figma)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=plastic&logo=jira-software&logoColor=0052CC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=plastic&logo=git)&nbsp;
