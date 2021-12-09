@@ -1,9 +1,12 @@
 Tech Stack:<br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=plastic&logo=TypeScript&logoColor=007ACC)&nbsp;
+<br/>
 ![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=plastic&logo=redux)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=plastic&logo=next.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=plastic&logo=nestjs)&nbsp;
+<br/>
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=plastic&logo=Jest&logoColor=C21325)&nbsp;<br/>
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=Firebase)&nbsp;
 ![Three.Js](https://img.shields.io/badge/-Three.Js-333333?style=plastic&logo=Three.Js)&nbsp;
