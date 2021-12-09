@@ -11,7 +11,6 @@ Tech Stack:<br/>
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=plastic&logo=Jest&logoColor=C21325)&nbsp;<br/>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=Firebase)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-333333?style=plastic&logo=SCSS)&nbsp;
 <br/>
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=plastic&logo=postman)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=plastic&logo=Figma)&nbsp;
