@@ -8,10 +8,10 @@ Tech Stack:<br/>
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=plastic&logo=next.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=plastic&logo=nestjs)&nbsp;
 <br/>
-![Jest](https://img.shields.io/badge/-Jest-333333?style=plastic&logo=Jest&logoColor=C21325)&nbsp;<br/>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=Firebase)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-333333?style=plastic&logo=Jest&logoColor=C21325)&nbsp;
 <br/>
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=plastic&logo=postman)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=plastic&logo=docker)&nbsp;
