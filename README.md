@@ -9,7 +9,7 @@ Tech Stack:<br/>
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=plastic&logo=nestjs)&nbsp;
 <br/>
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=plastic&logo=Jest&logoColor=C21325)&nbsp;<br/>
-![Postgres](https://img.shields.io/badge/-Postgres-333333?style=plastic&logo=postgres)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=Firebase)&nbsp;
 <br/>
