@@ -1,10 +1,5 @@
 Tech Stack:<br/>
-neo
 ![NeoVim](https://img.shields.io/badge/-NeoVim-333333?style=plastic&logo=NeoVim)&nbsp;
-n
-![NVim](https://img.shields.io/badge/-NVim-333333?style=plastic&logo=NVim)&nbsp;
-
-![Vim](https://img.shields.io/badge/-Vim-333333?style=plastic&logo=vim)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=plastic&logo=ubuntu)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=plastic&logo=TypeScript&logoColor=007ACC)&nbsp;
